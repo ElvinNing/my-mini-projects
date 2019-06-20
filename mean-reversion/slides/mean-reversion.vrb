@@ -1,0 +1,11 @@
+\frametitle{Calculate profit}
+\begin{verbatim}
+trades = np.empty((0,3)) # [entry, exit, long or short]
+
+profit = (trades[:-1, 1] - trades[:-1, 0]) * trades[:-1, 2]
+sum(profit)
+
+profit is 5.476257671422052
+\end{verbatim}
+
+For each tuple of parameters $(p, hl_{\Delta t}, \Delta t)$, we have a correspondent profit. This motivates a grid-search framework as follows:

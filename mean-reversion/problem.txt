@@ -1,0 +1,12 @@
+Pls structure a solution to solve this problem:
+
+X is the limit of M period returns in which when crossed produces a move in the opposite direction over N period of at least Y% returns, that would happen Z% of the time.
+
+For example, when Euro encounters a -5% (5 day return), crossing a limit of -4% that we have identified when crossed, is the maximum downside limit. We expect an up move of at least +2% return over the next 3 days.
+
+Our statistics have shown this occurred 78% of the time over a 5 year period on H1 granularity.
+
+The code should allow the easy changing of model from statistical to ML/DL.
+
+Aside from M, N, X, Y, Z, the grid search should include lookback (training) period, granularity, and asset.
+ 

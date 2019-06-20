@@ -1,0 +1,91 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Generate data with O-U process}{3}{Generate data with O-U process}{0}}
+\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{O-U process}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{O-U process}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Data generation}}
+\headcommand {\slideentry {1}{2}{1}{4/4}{Data generation}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{2}{2}{5/5}{Data generation}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@sectionpages {3}{5}}
+\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\sectionentry {2}{Statistical test of mean reversion}{6}{Statistical test of mean reversion}{0}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{Augmented Dickey--Fuller test}}
+\headcommand {\slideentry {2}{1}{1}{6/6}{Augmented Dickey--Fuller test}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{1}{2}{7/7}{Augmented Dickey--Fuller test}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Alternative approaches}}
+\headcommand {\slideentry {2}{2}{1}{8/8}{Alternative approaches}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@sectionpages {6}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\sectionentry {3}{Crossing limit}{9}{Crossing limit}{0}}
+\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{9}{Price deviation and Gaussion detection}}
+\headcommand {\slideentry {3}{1}{1}{9/9}{Price deviation and Gaussion detection}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {3}{1}{2}{10/10}{Price deviation and Gaussion detection}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{11}{Probability level to determine crossing limit}}
+\headcommand {\slideentry {3}{2}{1}{11/11}{Probability level to determine crossing limit}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {3}{2}{2}{12/12}{Probability level to determine crossing limit}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@sectionpages {9}{12}}
+\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\sectionentry {4}{Time to mean revert}{13}{Time to mean revert}{0}}
+\headcommand {\beamer@subsectionpages {13}{12}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{13}{Half life}}
+\headcommand {\slideentry {4}{1}{1}{13/13}{Half life}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{14}{Estimation of half life}}
+\headcommand {\slideentry {4}{2}{1}{14/14}{Estimation of half life}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {4}{2}{2}{15/15}{Estimation of half life}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{16}{Hyperparamters}}
+\headcommand {\slideentry {4}{3}{1}{16/16}{Hyperparamters}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@sectionpages {13}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\sectionentry {5}{Trades, profit and grid search}{17}{Trades, profit and grid search}{0}}
+\headcommand {\beamer@subsectionpages {17}{16}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{17}{Make trades based on probability level $p$ and $hl$}}
+\headcommand {\slideentry {5}{1}{1}{17/17}{Make trades based on probability level $p$ and $hl$}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{18}{Calculate profit}}
+\headcommand {\slideentry {5}{2}{1}{18/18}{Calculate profit}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{19}{Grid search pipeline}}
+\headcommand {\slideentry {5}{3}{1}{19/19}{Grid search pipeline}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@sectionpages {17}{19}}
+\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\sectionentry {6}{Further improvement}{20}{Further improvement}{0}}
+\headcommand {\slideentry {6}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {6}{0}{2}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {6}{0}{3}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@partpages {1}{22}}
+\headcommand {\beamer@subsectionpages {20}{22}}
+\headcommand {\beamer@sectionpages {20}{22}}
+\headcommand {\beamer@documentpages {22}}
+\headcommand {\gdef \inserttotalframenumber {22}}
